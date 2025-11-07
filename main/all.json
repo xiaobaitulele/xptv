@@ -3,8 +3,8 @@
     {
       "name": "两个BT_兔",
       "type": 3,
-      "api": "csp_4kvm",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/4kvm.js"
+      "api": "csp_bttwo",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/bttwo.js"
     },
     {
       "name": "4kvm_兔",
