@@ -16,6 +16,11 @@
       "type": 3,
       "api": "csp_nycvod",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/nycvod.js"
+    },{
+      "name": "假独播库_兔",
+      "type": 3,
+      "api": "csp_nycvod",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/nycvod.js"
     }
   ]
 }
