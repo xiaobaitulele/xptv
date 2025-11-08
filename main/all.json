@@ -46,6 +46,11 @@
       "type": 3,
       "api": "csp_libvio_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/libvio_tu.js"
+    },{
+      "name": "海龟TV🪜_兔",
+      "type": 3,
+      "api": "csp_haigui_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/haigui_tu.js"
     }
   ]
 }
