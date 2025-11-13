@@ -50,12 +50,14 @@ const appConfig = {
 
 async function getConfig() {
     if($config?.age18){
-        appConfig.tabs.push({
-            name: '成人',
-            ext: {
-                url: 'https://www.youknow.tv/show/57--------{page}---/'
-            },
-        })
+        if (!appConfig.tabs.some(t => t.name === '成人')) {
+            appConfig.tabs.push({
+                name: '成人',
+                ext: {
+                    url: 'https://www.youknow.tv/show/57--------{page}---/'
+                }
+            });
+        }
     }
     return jsonify(appConfig)
 }
