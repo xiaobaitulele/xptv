@@ -53,6 +53,11 @@
       "api": "csp_youknow_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/youknow_tu.js"
     },{
+      "name": "[兔]旺旺影视(无搜索)\uD83C\uDFAC",
+      "type": 3,
+      "api": "csp_wangwangys_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/wangwangys_tu.js"
+    },{
       "name": "[兔]123TV\uD83C\uDFAC",
       "type": 3,
       "api": "csp_123TV_tu",
