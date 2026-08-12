@@ -82,11 +82,6 @@
       "type": 3,
       "api": "csp_cyc_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/cyc_tu.js"
-    },{
-      "name": "[兔]稀饭动漫\uD83C\uDF38⚠️️",
-      "type": 3,
-      "api": "csp_xifanacg_tu",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/xifanacg_tu.js"
     }
   ]
 }
