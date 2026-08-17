@@ -46,6 +46,11 @@
       "type": 3,
       "api": "csp_guazi_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/guazi_tu.js"
+    },{
+      "name": "[兔]低端影视\uD83C\uDFAC",
+      "type": 3,
+      "api": "csp_ddysio_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ddysio_tu.js"
     },
     {
       "name": "[兔]youknow(无搜索)\uD83C\uDFAC",
