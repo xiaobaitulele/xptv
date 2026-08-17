@@ -78,6 +78,11 @@
       "api": "csp_feikuai_tu",
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/feikuai_tu.js"
     },{
+      "name": "[兔]ZIP0\uD83C\uDFAC",
+      "type": 3,
+      "api": "csp_zip0_tu",
+      "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/zip0_tu.js"
+    },{
       "name": "[兔]ギリギリ动漫APP\uD83C\uDF38",
       "type": 3,
       "api": "csp_girigiriloveapp_tu",
