@@ -35,10 +35,9 @@ only是过滤网盘用的，内容为域名的里的一部分，如driver.uc.com
 
 
 
-金牌影视网址配置   {"site":"https://www.jiabaide.cn"}
-已知其他域名https://www.ivdy001.com/
 
-剧迷自定义配置 {"site":"https://gimytv.ai"}
+所有源都支持自定义域名 {"site":"https://xxxxxx"}，最后不要加斜杠
+
 
 
 
