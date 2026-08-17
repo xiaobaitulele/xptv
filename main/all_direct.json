@@ -31,6 +31,11 @@
       "type": 3,
       "api": "csp_tgs_tu",
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/tgs_tu.js"
+    },,{
+      "name": "[兔]人人电影网☁️",
+      "type": 3,
+      "api": "csp_rrdynb_tu",
+      "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/rrdynb_tu.js"
     },{
       "name": "[兔]libvio\uD83C\uDFAC☁️",
       "type": 3,
