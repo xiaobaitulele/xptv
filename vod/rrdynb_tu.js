@@ -8,19 +8,19 @@ const appConfig = {
     tabs: [
         {
             name: '电影',
-            ext: { id: 'movie' },
+            ext: { id: 'movie/list_2_{page}.html' },
         },
         {
             name: '电视剧',
-            ext: { id: 'dianshiju' },
+            ext: { id: 'dianshiju/list_6_{page}.html' },
         },
         {
             name: '老电影',
-            ext: { id: 'zongyi' },
+            ext: { id: 'zongyi/list_10_{page}.html' },
         },
         {
             name: '动漫',
-            ext: { id: 'dongman' },
+            ext: { id: 'dongman/list_13_{page}.html' },
         },
     ],
 }
@@ -72,7 +72,8 @@ async function getCards(ext) {
     ext = argsify(ext)
     let cards = []
     const { page = 1, id } = ext
-    const url = `${appConfig.site}/${id}/?page=${page}`
+    let url = `${appConfig.site}/${id}`
+    url=url.replace("{page}", page)
 
     const { data } = await $fetch.get(url, {
         headers: { 'User-Agent': UA },
