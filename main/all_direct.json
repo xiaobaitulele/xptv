@@ -58,6 +58,12 @@
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ddysio_tu.js"
     },
     {
+      "name": "[兔]落雪影视(无搜索)\uD83C\uDFAC",
+      "type": 3,
+      "api": "csp_luoxueys_tu",
+      "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/luoxueys_tu.js"
+    },
+    {
       "name": "[兔]youknow(无搜索)\uD83C\uDFAC",
       "type": 3,
       "api": "csp_youknow_tu",
