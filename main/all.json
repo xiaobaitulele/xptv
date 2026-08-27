@@ -42,6 +42,11 @@
       "api": "csp_libvio_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/libvio_tu.js"
     },{
+      "name": "[兔]网飞猫\uD83C\uDFAC",
+      "type": 3,
+      "api": "csp_wangfeimao_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/wangfeimao_tu.js"
+    },{
       "name": "[兔]剧踪电影网\uD83C\uDFAC️",
       "type": 3,
       "api": "csp_juzong_tu",
