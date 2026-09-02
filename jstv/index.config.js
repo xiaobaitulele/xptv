@@ -44,9 +44,6 @@ var index_config_default = {
   gying: {
     cookie: ""
   },
-  tgsearch: {
-    channelUsername: ""
-  },
   sites: {
     list: []
   },
