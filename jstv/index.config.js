@@ -57,8 +57,8 @@ var index_config_default = {
     list: []
   },
   danmu: {
-    urls: [{ address: "https://danmuapi-ten-iota.vercel.app", name: "默认服务器" }],
-    autoPush: true
+    urls: [],
+    autoPush: false
   },
   alist: [
     {
