@@ -42,6 +42,11 @@
       "api": "csp_libvio_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/libvio_tu.js"
     },{
+      "name": "[兔]爱电影\uD83C\uDFAC️",
+      "type": 3,
+      "api": "csp_ivdy_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ivdy_tu.js"
+    },{
       "name": "[兔]网飞猫\uD83C\uDFAC",
       "type": 3,
       "api": "csp_wangfeimao_tu",
@@ -119,6 +124,16 @@
       "api": "csp_cyfz_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/cyfz_tu.js"
     },{
+      "name": "[兔]2k动漫(无搜索)\uD83C\uDF38",
+      "type": 3,
+      "api": "csp_2ksp_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/2ksp_tu.js"
+    },{
+      "name": "[兔]路漫漫(无搜索)\uD83C\uDF38",
+      "type": 3,
+      "api": "csp_lumm85_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/lumm85_tu.js"
+    },{
       "name": "[兔]次元城动画\uD83C\uDF38",
       "type": 3,
       "api": "csp_cyc_tu",
@@ -128,6 +143,11 @@
       "type": 3,
       "api": "csp_yuezhici_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/yuezhici_tu.js"
+    },{
+      "name": "[兔]11KT\uD83C\uDF38",
+      "type": 3,
+      "api": "csp_11kt_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/11kt_tu.js"
     }
   ]
 }
