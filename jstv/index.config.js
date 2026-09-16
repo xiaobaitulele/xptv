@@ -60,16 +60,6 @@ var index_config_default = {
     urls: [],
     autoPush: false
   },
-  alist: [
-    {
-      name: "🐉神族九帝",
-      server: "https://alist.shenzjd.com"
-    },
-    {
-      name: "💢repl",
-      server: "https://ali.liucn.repl.co"
-    }
-  ],
   color: [
     {
       light: {
