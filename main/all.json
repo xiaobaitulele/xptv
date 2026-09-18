@@ -77,6 +77,11 @@
       "api": "csp_guazi_tu",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/guazi_tu.js"
     },{
+      "name": "[兔]欧飞影音(限台湾播放)www.ofiii.com\uD83C\uDFAC",
+      "type": 3,
+      "api": "csp_ofiii_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ofiii_tu.js"
+    },{
       "name": "[兔]低端影视\uD83C\uDFAC",
       "type": 3,
       "api": "csp_ddysio_tu",
