@@ -52,6 +52,11 @@
       "api": "csp_maihaolian_tu",
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/maihaolian_tu.js"
     },{
+      "name": "[兔]美剧2046\uD83C\uDFAC️",
+      "type": 3,
+      "api": "csp_meiju2046_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/meiju2046_tu.js"
+    },{
       "name": "[兔]网飞猫\uD83C\uDFAC",
       "type": 3,
       "api": "csp_wangfeimao_tu",
