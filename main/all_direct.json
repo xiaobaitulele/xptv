@@ -67,6 +67,11 @@
       "api": "csp_juzong_tu",
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/juzong_tu.js"
     },{
+      "name": "[兔]瓜子app\uD83C\uDFAC",
+      "type": 3,
+      "api": "csp_guaziapp_tu",
+      "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/guaziapp_tu.js"
+    },{
       "name": "[兔]瓜子web\uD83C\uDFAC",
       "type": 3,
       "api": "csp_guazi_tu",
